@@ -18,3 +18,28 @@
 <a href="file:///M:/M.Ikt/M.Web/M.Projekty/Adam.html">Adam</a> &nbsp; &nbsp; &nbsp;
 </body>
 </html>
+[styly.css](https://github.com/user-attachments/files/23542816/styly.css)
+h1{
+	color: red;
+	/* background: rgba(220, 205, 38, 0.2); */
+	font-size 40px;
+	font-weight: normal;
+	font-family: "Times New Roman", Arial, Helvetica, serif
+}
+
+h1{
+	color: red;
+	font-size: 40px;
+}
+
+h2{
+	text-align:justify;
+	color: green;
+	font-size: 33px;
+}
+
+p{
+	color:blueviolet;
+	font-size: 60px;
+	font-weight: normal;
+}
